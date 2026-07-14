@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Aastha Nagar – Aspiring Quant & AI Researcher
+# 👋 Hi, I'm Aastha Nagar
 
-🎓 B.Tech CSE (AI & ML) | VIT Bhopal  
-🔍 Passionate about Quantitative Finance, Machine Learning, and Applied Mathematics  
-🌱 Currently pursuing a focused 10-week journey to master Quant + AI + Math  
+🎓 B.Tech in Computer Science (AI & ML) | VIT Bhopal University (2023–2027)
+💻 Aspiring Software Developer with interests in Machine Learning, AI, and Problem Solving.
+🚀 Currently strengthening my skills in Data Structures & Algorithms, Software Development, and Machine Learning while building real-world projects.
+📚 Technologies: Python • Java • C++ • Git • GitHub • OpenCV • NumPy • Pandas • Scikit-learn
 
 
 
